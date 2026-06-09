@@ -17,7 +17,7 @@ Firmware tùy biến dựa trên nền tảng ExpressLRS nhằm mang lại kết
 
 ---
 
-# 📖 Giới thiệu
+# 📖 Giới thiệu 
 
 Avata RadioX là firmware được phát triển dựa trên nền tảng ExpressLRS dành cho các bộ phát (TX) và bộ thu (RX) sử dụng ESP32 và SX1280.
 
