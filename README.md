@@ -246,14 +246,6 @@ Nguyên nhân thường gặp:
 * [x] Telemetry
 * [x] 500mW TX Support
 
-## Đang phát triển
-
-* [ ] Lua Script
-* [ ] Gemini Receiver
-* [ ] Dynamic Power
-* [ ] Advanced Telemetry
-* [ ] Extended Channel Support
-
 ---
 
 # 🤝 Đóng góp
