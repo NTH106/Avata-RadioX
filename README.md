@@ -9,7 +9,7 @@
 
 ---
 
-Firmware tùy biến dựa trên nền tảng ExpressLRS nhằm mang lại kết nối ổn định, độ trễ thấp và khả năng mở rộng cao cho các hệ thống RC hiện đại.
+Avata RadioX là firmware tùy biến dựa trên nền tảng ExpressLRS, cung cấp kết nối điều khiển 10 kênh và khả năng mở rộng linh hoạt cho RC Car, RC Boat và các ứng dụng RC khác.
 
 ⭐ Nếu dự án hữu ích hãy Star repository để ủng hộ quá trình phát triển.
 
