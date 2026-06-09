@@ -272,8 +272,6 @@ Bạn có thể tự do sử dụng, chỉnh sửa và phát triển dựa trên
 
 ### NH06
 
-Custom ExpressLRS Developer
-
 Project: Avata RadioX
 
 ---
