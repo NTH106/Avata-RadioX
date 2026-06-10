@@ -1,4 +1,5 @@
-# Avata-RadioX
+<img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/c6979081-de57-4ea0-86ed-da304d093a57" />
+
 <div align="center">
 
 # 🚀 Avata RadioX
