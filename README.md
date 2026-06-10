@@ -100,7 +100,7 @@ Firmware phù hợp cho:
 
 # 🚀 Hướng dẫn nạp Firmware
 
-## Nạp qua UART
+## Nạp qua UART ( áp dụng đối với esp đã xóa bộ nhớ EEPROM hoặc esp mới )
 
 Firmware có thể được nạp trực tiếp bằng trình duyệt thông qua ESP Web Tool.
 
@@ -158,9 +158,10 @@ Khởi động lại thiết bị.
 
 http://10.0.0.1
 
-4. Chọn Firmware Update.
-5. Upload firmware mới.
-6. Chờ thiết bị khởi động lại.
+4. Đổi tên firmware đã tải về thành firmware.bin
+5. Chọn Firmware Update
+6. Upload firmware mới.
+7. Chờ thiết bị khởi động lại.
 
 ---
 
